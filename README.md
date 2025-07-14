@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--<h1 align="center">Hi 👋, I'm Khushi Chaudhary</h1>
+<h1 align="center">Hi 👋, I'm Khushi Chaudhary</h1>
 <h3 align="center">🚀 B.Tech CSD 2nd Year | Learning Web Development</h3>
 
 ---
@@ -41,16 +39,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Khushi%20Chaudhary-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-**kkhushi-11/kkhushi-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
